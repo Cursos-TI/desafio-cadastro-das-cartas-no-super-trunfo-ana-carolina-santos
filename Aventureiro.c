@@ -32,10 +32,10 @@ int main() {
     printf("Codigo: %s\n", codigo1);
     printf("Nome da Cidade: %s\n", nome1);
     printf("Populacao: %d\n", populacao1);
-    printf("Area: %.2f km^2\n", area1);  // Corrigido para evitar caracteres especiais
+    printf("Area: %.2f km^2\n", area1);  
     printf("PIB: %.2f bilhoes de reais\n", pib1);
     printf("Numero de Pontos Turisticos: %d\n", pontos_turisticos1);
-    printf("Densidade Populacional: %.2f hab/km^2\n", densidade1);  // Corrigido
+    printf("Densidade Populacional: %.2f hab/km^2\n", densidade1);  
     printf("PIB per Capita: %.2f reais\n\n", pib_per_capita1);
 
     printf("Carta 2:\n");
@@ -43,10 +43,10 @@ int main() {
     printf("Codigo: %s\n", codigo2);
     printf("Nome da Cidade: %s\n", nome2);
     printf("Populacao: %d\n", populacao2);
-    printf("Area: %.2f km^2\n", area2);  // Corrigido
+    printf("Area: %.2f km^2\n", area2);  
     printf("PIB: %.2f bilhoes de reais\n", pib2);
     printf("Numero de Pontos Turisticos: %d\n", pontos_turisticos2);
-    printf("Densidade Populacional: %.2f hab/km^2\n", densidade2);  // Corrigido
+    printf("Densidade Populacional: %.2f hab/km^2\n", densidade2); 
     printf("PIB per Capita: %.2f reais\n", pib_per_capita2);
 
     return 0;
